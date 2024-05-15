@@ -1,0 +1,39 @@
+{
+  "Permanent_Address": {
+    "House_Number": "222",
+    "City": "Taipei",
+    "State": "ss",
+    "Country": "Taiwan",
+    "PhoneNumber": [
+      {
+        "Std_Code": "none",
+        "Home": "none",
+        "Mobile": "0977333444"
+      },
+      {
+        "Std_Code": "none",
+        "Home": "none",
+        "Mobile": "0966555222"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "222",
+    "City": "Taipei",
+    "State": "ss",
+    "Country": "Taiwan",
+    "PhoneNumber": [
+      {
+        "Std_Code": "none",
+        "Home": "none",
+        "Mobile": "0977333444"
+      },
+      {
+        "Std_Code": "none",
+        "Home": "none",
+        "Mobile": "0966555222"
+      }
+    ]
+  },
+  "stId": "10277729"
+}
